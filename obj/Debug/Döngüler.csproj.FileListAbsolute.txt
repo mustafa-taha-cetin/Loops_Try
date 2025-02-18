@@ -1,0 +1,11 @@
+C:\Users\USER01\Desktop\C#\Döngüler\Döngüler\bin\Debug\Döngüler.exe.config
+C:\Users\USER01\Desktop\C#\Döngüler\Döngüler\bin\Debug\Döngüler.exe
+C:\Users\USER01\Desktop\C#\Döngüler\Döngüler\bin\Debug\Döngüler.pdb
+C:\Users\USER01\Desktop\C#\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER01\Desktop\C#\Döngüler\Döngüler\obj\Debug\Döngüler.Form1.resources
+C:\Users\USER01\Desktop\C#\Döngüler\Döngüler\obj\Debug\Döngüler.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\Döngüler\Döngüler\obj\Debug\Döngüler.exe
+C:\Users\USER01\Desktop\C#\Döngüler\Döngüler\obj\Debug\Döngüler.pdb
